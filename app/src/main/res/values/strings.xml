@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">demoYoutube</string>
+    <string name="thumbnail_image_view_desc">Youtube Video thumbnail image view</string>
+    <string name="close_player_activity">Close Player activity</string>
+
+
+    <!--  we need to use video ids instead of video link  -->
+    <string-array name="video_id_array">
+        <item>CqhpNxI8qYw</item>
+        <item>sasCrpgHDy8</item>
+        <item>iJeh3x09Ya8</item>
+        <item>B5zRaD7B504</item>
+        <item>9qWHzj8k-Uo</item>
+        <item>RjiK45wC924</item>
+        <item>RH3zaLO8H4E</item>
+        <item>o14pyzosjvk</item>
+        <item>5SQrpBQne7A</item>
+        <item>5WJ3r67ORxo</item>
+    </string-array>
+
+    <string-array name="video_title_array">
+        <item>Android Security Lock Demo</item>
+        <item>Android Sectioned RecyclerView Demo</item>
+        <item>Android Home Screen Widgets Demo</item>
+        <item>Android Floating Widget like Facebook Messenger Chat Head Demo</item>
+        <item>Android Google Maps Introduction Demo</item>
+        <item>Android Lollipop Activity Transitions Demo</item>
+        <item>Android Toolbar Animation Using Design Support Library Demo</item>
+        <item>Android Material Advance Tabs Demo</item>
+        <item>Android Drag and Drop Demo</item>
+        <item>Android Fingerprint Authentication Demo</item>
+    </string-array>
+
+    <string-array name="video_duration_array">
+        <item>02:48</item>
+        <item>00:44</item>
+        <item>01:01</item>
+        <item>00:55</item>
+        <item>01:03</item>
+        <item>00:25</item>
+        <item>00:34</item>
+        <item>00:45</item>
+        <item>00:52</item>
+        <item>00:28</item>
+    </string-array>
+
+
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="feed">Feed</string>
+    <string name="videos">Comedy Videos</string>
+
+
+    <string name="press_again_exit_app">Press again to exit</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_select_friend">Select Friend</string>
+
+    <string name="about_text">This is Material Design Social App template, this app use dummy data not related for any backend
+    \n\nImage source :
+        \n<a href="www.pexels.com">www.pexels.com</a>
+        \n<a href="www.pixabay.com">www.pixabay.com</a>
+    </string>
+
+    <string name="my_name">John Miller</string>
+
+    <string name="tab_feed">Feeds</string>
+    <string name="tab_friend">Friends</string>
+    <string name="tab_message">Messages</string>
+    <string name="tab_notif">Notifications</string>
+    <string name="tab_profile">Profile</string>
+    <string name="avatar_source">http://www.designskilz.com/</string>
+
+</resources>

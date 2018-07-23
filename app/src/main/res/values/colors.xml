@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorPrimary">#D02D41</color>
+    <color name="primary_light">#ed8793</color>
+    <color name="primary_dark">#A62434</color>
+    <color name="accent">#FF8A80</color>
+    <color name="primary_text_color">#ffffff</color>
+    <color name="app_theme">#D02D41</color>
+    <color name="app_orange_theme">#E46054</color>
+    <color name="app_grey_theme">#838383</color>
+    <color name="actionbar_title_selected">#522218</color>
+    <color name="order_by_time_today">#000000</color>
+    <color name="black">#000000</color>
+    <color name="grey_slider">#CACACA</color>
+    <color name="grey">#DDDDDD</color>
+    <color name="offices_tab_bg">#B1B1B1</color>
+    <color name="city_text_color">#FF383838</color>
+    <color name="number_of_apartments">#FA787878</color>
+
+
+    <!-- New Color Palette-->
+
+    <color name="color_primary_dark">#A62434</color>
+    <color name="color_primary">#D02D41</color>
+    <color name="color_accent">#252931</color>
+
+
+    <color name="text_color_white">#FFFFFF</color>
+    <color name="text_color_red">#D0021B</color>
+
+    <color name="text_color_black">#001A45</color>
+    <color name="text_color_black_medium">#252931</color>
+    <color name="text_color_lite_black">#4A515F</color>
+    <color name="text_color_grey">#7E8B92</color>
+
+    <color name="text_color_proceed">#3D444F</color>
+    <color name="text_color_dark_grey">#666D71</color>
+
+    <color name="text_color_light_grey">#979797</color>
+    <color name="text_small_color_light_grey">#93999D</color>
+
+    <color name="text_color_accents">#D02D41</color>
+
+    <color name="text_color_bottom_tab">#66000000</color>
+    <color name="pale_white">#B3FFFFFF</color>
+
+    <color name="switch_selected">#D02D41</color>
+    <color name="switch_deselected">#F1F1F1</color>
+    <color name="radio_selected">#D02D41</color>
+    <color name="radio_deselected">#36010101</color>
+    <color name="ripple_color">#0DD4DBE2</color>
+
+    <color name="filter_toggle_select_background">#FFF2F2</color>
+    <color name="filter_toggle_deselect_background">#FFFFFF</color>
+
+    <color name="dish_level_bronze">#F9D7B9</color>
+    <color name="dish_level_silver">#BBD4E6</color>
+    <color name="dish_level_gold">#FFE599</color>
+
+    <color name="app_theme_background">#EDF1F4</color>
+    <color name="divider_color">#1A001a45</color>
+    <color name="review_chef_background_color">#0D001a45</color>
+
+    <color name="text_light_grey">#9B9B9B</color>
+    <color name="new_button_color_dark_grey">#3E444F</color>
+    <color name="new_grey_line_color">#E9E9E9</color>
+    <color name="red_text_color">#D0021B</color>
+
+    <color name="disabled_text_colors">#B0B2B7</color>
+
+    <color name="error_text_red_color">#F54B5E</color>
+    <color name="order_summary_items_bg_color">#E0E5EA</color>
+
+    <color name="orange_theme_color">#FF9147</color>
+    <color name="light_red_background_color">#FFC8C8</color>
+    <color name="text_color_orange">#E87500</color>
+    <color name="order_list_recycler_background">#E0E4E9</color>
+    <color name="black_text_with_opacity">#40001A45</color>
+    <color name="dark_grey_with_opacity">#3C001A45</color>
+    <color name="light_gery_with_opacity">#0A001A45</color>
+    <color name="grey_bg">#E6E6E6</color>
+
+    <!-- New Dish colors-->
+    <color name="red">#FFD02D41</color>
+    <color name="black_with_30_opacity">#4D001A45</color>
+    <color name="black_with_100_opacity">#FF001A45</color>
+    <color name="light_grey_hint">#66001A45</color>
+    <color name="text_hint">#80001A45</color>
+    <color name="separator_color">#FFE9E9E9</color>
+    <color name="light_grey_bg">#4DFFFFFF</color>
+
+    <!-- DATE SELECTION DIALOG OVERRIDE COLORS -->
+    <color name="calendar_blue_text_color">#CC001A45</color>
+    <color name="calendar_bg" tools="override">#ffffffff</color>
+    <color name="calendar_divider" tools="override">#ffffffff</color>
+    <color name="dateTimeRangePickerStateToday" tools="override">#FFD02D41</color>
+    <color name="dateTimeRangePickerStateNonSelectable" tools="override">#B9B9B9</color>
+
+    <!-- NEW DISH CREATION COLORS -->
+    <color name="dish_type_text_color">#FF4A515F</color>
+    <color name="dish_type_description_text_color">#4d4A515F</color>
+
+    <!-- ORDER Details Activity-->
+    <color name="pale_golden_yellow">#F5A623</color>
+    <color name="dark_golden_yellow">#FF8427</color>
+    <color name="green">#FF06B43D</color>
+    <color name="black_with_50_opacity">#001A45</color>
+    <color name="planner_tutorial">#E6FFFFFF</color>
+
+    <color name="review_order_header_background">#CCFFFFFF</color>
+
+    <!-- TIME RANGE PICKER -->
+    <color name="mdtp_white">#ffffff</color>
+    <color name="mdtp_background_color">@color/mdtp_white</color>
+    <color name="mdtp_circle_background">@color/mdtp_background_color</color>
+    <color name="mdtp_circle_color">#f5f5f5</color>
+    <color name="mdtp_ampm_text_color">@color/mdtp_numbers_text_color</color>
+    <color name="mdtp_numbers_text_color">#ff212121</color>
+
+    <color name="mdtp_transparent_black">#7f000000</color>
+    <color name="mdtp_accent_color">#FF7F8CA2</color>
+    <color name="mdtp_accent_color_focused">#76ffffff</color>
+    <color name="mdtp_accent_color_dark">#00796b</color>
+
+    <!-- DatePicker Dark Theme -->
+
+    <!-- TimePicker Dark Theme -->
+    <color name="mdtp_circle_background_dark_theme">#525252</color>
+
+    <!-- Colors for red theme -->
+    <color name="mdtp_red">@color/mdtp_accent_color</color>
+    <color name="mdtp_light_gray">#424242</color>
+
+
+    <!-- COlors for ENABLE DISH FOR APARTMENT ACTIVITY -->
+    <color name="yellow_background_color">#FFFF8427</color>
+    <color name="white_with_40_opacity">#66FFFFFF</color>
+    <color name="yellow_with_30_opacity">#47FFEC00</color>
+    <color name="white_75_opacity">#bfffffff</color>
+    <color name="opacity_50_blue_text_color">#80001A45</color>
+
+    ///
+    <color name="view_more_options">#B3FFFFFF</color>
+    <color name="meal_planner">#9B3483</color>
+    <color name="order_status_count_bg">#E06666</color>
+    <color name="aprtment_lead_title_bg">#5B0F00</color>
+    <color name="profile_milestones">#00A6A6</color>
+    <color name="profile_milestones_grey">#787878</color>
+    <color name= "profile_font">#383838</color>
+    <color name="increased_points_background">#C8F2DA</color>
+    <color name= "profile_bg">#EDF1F4</color>
+    <color name="yellow_bottom">#FDCB6E</color>
+    <color name= "pink_bottom">#E17055</color>
+    <color name= "blue_bottom">#56CCF2</color>
+    <color name="edit_profile_hint">#5E383838</color>
+
+    <color name="underline_color">#1F000000</color>
+    <color name="yellow_top">#FFEAA7</color>
+    <color name= "pink_top">#FAB1A0</color>
+    <color name= "blue_top">#A8EAFF</color>
+    <color name="white_27_opacity">#45ffffff</color>
+
+    <color name="down_points_color">#A62434</color>
+    <color name="skip_text_color">#8A383838</color>
+    <color name="primary_opacity_33">#33D02D41</color>
+    <color name="home_delivery_text_color">#10BF5B</color>
+    <color name="pick_up_text_color">#FF8700</color>
+
+
+
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+
+
+    <color name="grey_hard">#96989A</color>
+    <color name="grey_medium">#BDBFC1</color>
+    <color name="grey_soft">#F5F5F5</color>
+    <color name="grey_dark">#262626</color>
+    <color name="grey_text">#222D31</color>
+    <color name="tab_indicator_color">#FFFFFF</color>
+    <color name="me_chat_bg">#FFE0B2</color>
+    <color name="bg_bottom_menu">#f2f2f2</color>
+
+    <color name="darkOverlay">#80000000</color>
+    <color name="darkOverlaySoft">#40000000</color>
+    <color name="whiteOverlay">#40FFFFFF</color>
+
+    <color name="bt_add_color">#49a6e9</color>
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#8955D1</color>
+    <color name="bg_screen2">#FDA52A</color>
+    <color name="bg_screen3">#07B2DD</color>
+    <color name="bg_screen4">#50A50A</color>
+</resources>

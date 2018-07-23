@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "568918525730",
+    "firebase_url": "https://fir-ba884.firebaseio.com",
+    "project_id": "fir-ba884",
+    "storage_bucket": "fir-ba884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568918525730:android:138426e93c6ae02c",
+        "android_client_info": {
+          "package_name": "android.suyash.com.demoyoutube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568918525730-mt7kdrh5avnhl34k62a5rqj8o5rinqs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC8xN0f8TiXnnEJFpx6xpwZure6bCBclw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

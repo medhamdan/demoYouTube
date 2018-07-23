@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="?attr/actionBarSize">
+
+    <LinearLayout
+        android:id="@+id/layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/size_18"
+        android:orientation="horizontal">
+
+
+
+
+        <TextView
+            android:id="@+id/menu_tab_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_marginLeft="@dimen/size_4"
+            android:layout_marginStart="@dimen/size_4"
+            android:background="@android:color/transparent"
+            android:text="ASD"
+            android:textColor="@color/profile_milestones_grey"
+            android:textSize="@dimen/text_size_14"/>
+
+    </LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/tab_indicator"
+        android:layout_width="@dimen/size_16"
+        android:layout_height="@dimen/size_2"
+        android:layout_below="@+id/layout"
+        android:layout_marginBottom="@dimen/size_11"
+        android:layout_marginTop="@dimen/size_5"
+        android:background="@color/colorPrimary"/>
+
+</RelativeLayout>
